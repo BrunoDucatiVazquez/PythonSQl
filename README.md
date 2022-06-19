@@ -6,7 +6,7 @@ Aprender como integrar python com a linguagem dos banco de dados: SQL
 
 # Linguagens Utilizadas
 
--Py Qtdesigner: para fazer as telas
+- Py Qtdesigner: para fazer as telas
 - Python: como linguagem de programação para a lógica do sistema
 - Mysql: como banco de dados para armazenamento dos dados cadastrados  
 
