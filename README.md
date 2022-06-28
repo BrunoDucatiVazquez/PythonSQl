@@ -1,5 +1,5 @@
 # PythonSQl
-Um projeto para aprender a integrar o banco de dados Mysql com Python
+Um projeto para aprender a integrar o banco de dados Mysql e Python
 
 # Objetivo
 Aprender como integrar python com a linguagem dos banco de dados: SQL
